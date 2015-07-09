@@ -1,0 +1,3 @@
+local/
+*.pyc
+.ipynb_checkpoints/
